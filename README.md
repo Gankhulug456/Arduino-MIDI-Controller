@@ -74,5 +74,5 @@ Built a browser-based interface using **WebSerial API** and **Tone.js**:
 
 ## 🔗 See More
 
-Visit [yourwebsite.com](https://ganaa.work) for more projects and demos.
+Visit [my website](https://ganaa.work) for more projects and demos.
 
