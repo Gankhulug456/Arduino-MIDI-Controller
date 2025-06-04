@@ -57,9 +57,9 @@ Built a browser-based interface using **WebSerial API** and **Tone.js**:
 
 ## 📸 Media
 
-> https://ganaa.work/assets_mac/dj/djmov.gif
-> https://ganaa.work/assets_mac/dj/dj1.png
-> https://ganaa.work/assets_mac/dj/dj.jpg
+> ![Preview](https://ganaa.work/assets_mac/dj/djmov.gif)
+> ![Preview](https://ganaa.work/assets_mac/dj/dj1.png)
+> ![Preview](https://ganaa.work/assets_mac/dj/dj.jpg)
 
 ---
 
