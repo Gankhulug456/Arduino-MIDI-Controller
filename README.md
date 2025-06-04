@@ -17,10 +17,10 @@ A custom-built MIDI controller using an **Arduino Nano** that interfaces with we
 
 Built a custom Arduino-based MIDI controller with:
 
-- 🌀 **Potentiometers** – mapped to MIDI control change messages  
-- 🔘 **Debounced Buttons** – trigger MIDI note-on/note-off events  
-- 🌞 **Photoresistor** – controls a filter cutoff frequency in real time  
-- 🌈 **RGB LEDs** – provide visual feedback for active parameters
+-  **Potentiometers** – mapped to MIDI control change messages  
+-  **Debounced Buttons** – trigger MIDI note-on/note-off events  
+-  **Photoresistor** – controls a filter cutoff frequency in real time  
+-  **RGB LEDs** – provide visual feedback for active parameters
 
 ### Firmware Features
 
@@ -57,7 +57,9 @@ Built a browser-based interface using **WebSerial API** and **Tone.js**:
 
 ## 📸 Media
 
-> *(Add photos of the controller, wiring diagram, and a short demo video or GIF of it in action here.)*
+> https://ganaa.work/assets_mac/dj/djmov.gif
+> https://ganaa.work/assets_mac/dj/dj1.png
+> https://ganaa.work/assets_mac/dj/dj.jpg
 
 ---
 
